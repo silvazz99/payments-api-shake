@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.payments</groupId>
-	<artifactId>TotalShake</artifactId>
+	<artifactId>TotalShake-Payments</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TotalShake</name>
+	<name>TotalShake-Payments</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>18</java.version>
